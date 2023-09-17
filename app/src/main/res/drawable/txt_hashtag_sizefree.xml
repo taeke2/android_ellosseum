@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:color="#D3D7DC">
+
+    <item
+        android:id="@+id/memo"
+        tools:targetApi="lollipop">
+        <shape android:shape="rectangle">
+            <corners android:radius="12dp" />
+            <solid android:color="@color/white" />
+            <!--    <gradient-->
+            <!--        android:angle="45"-->
+            <!--        android:centerColor="#DD0000"-->
+            <!--        android:centerX="50%"-->
+            <!--        android:endColor="#C00000"-->
+            <!--        android:startColor="#FFFFFF"-->
+            <!--        android:type="linear" />-->
+            <stroke
+                android:width="1.5dp"
+                android:color="#B7BBC8" />
+
+            <padding
+                android:bottom="2dp"
+                android:left="8dp"
+                android:right="8dp"
+                android:top="2dp" />
+        </shape>
+    </item>
+</ripple>

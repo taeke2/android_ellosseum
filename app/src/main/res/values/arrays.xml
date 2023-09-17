@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="language">
+        <item>한국어</item>
+        <item>English</item>
+    </string-array>
+
+    <string-array name="bloods_array">
+        <item>RH+A형</item>
+        <item>RH-A형</item>
+        <item>RH+B형</item>
+        <item>RH-B형</item>
+        <item>RH+AB형</item>
+        <item>RH-AB형</item>
+        <item>RH+O형</item>
+        <item>RH-O형</item>
+    </string-array>
+
+    <string-array name="occupation_array">
+        <item>근로자</item>
+        <item>장비</item>
+        <item>관리자</item>
+    </string-array>
+
+    <string-array name="empType_array">
+        <item>사원</item>
+        <item>관리자</item>
+    </string-array>
+
+    <string-array name="state_array">
+        <item>근무중</item>
+        <item>휴식</item>
+        <item>퇴근</item>
+    </string-array>
+
+    <string-array name="tel_array">
+        <item>010</item>
+        <item>011</item>
+        <item>016</item>
+        <item>017</item>
+        <item>018</item>
+        <item>019</item>
+    </string-array>
+</resources>

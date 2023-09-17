@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ellosseum</string>
+
+    <string name="auth_title">Enter authorization code</string>
+    <string name="auth_title2">Please enter your code.</string>
+    <string name="auth_hint">Input Code</string>
+    <string name="code_error">The code number is incorrect.</string>
+    <string name="alreadyAccount">Already have an account?</string>
+    <string name="OK">OK</string>
+    <string name="login_title">Welcome!</string>
+    <string name="login_title2">Enter your login to continue…</string>
+    <string name="id_hint">Input ID</string>
+    <string name="pw_hint">Input PW</string>
+    <string name="login_error">You entered your ID or password incorrectly.</string>
+    <string name="find_id">Find ID</string>
+    <string name="find_pw">Find PW</string>
+    <string name="join">Join</string>
+    <string name="login">Log-in</string>
+    <string name="find_id_title2">Please enter your name and email.</string>
+    <string name="state">State</string>
+    <string name="name_hint">Input Name</string>
+    <string name="email_hint">Input Email</string>
+    <string name="login_screen">Login</string>
+    <string name="find_id_error">Your name or email was entered incorrectly.</string>
+    <string name="find_pw_title2">Please enter your ID, name and email.</string>
+    <string name="find_pw_error">Your ID, name, or email have been entered incorrectly.</string>
+    <string name="terms">Accept the terms and conditions</string>
+    <string name="terms_all_agree">I agree to the ellosseum Terms of Use, Collection and Use of Personal Information, and Terms of Use of Location Information.</string>
+    <string name="terms_agree1">Agree to the ellosseum Terms of Use</string>
+    <string name="terms_agree2">Information on collection and use of personal information (required)</string>
+    <string name="terms_agree3">Agree to the terms of use of location information (required)</string>
+    <string name="cancel">Cancel</string>
+    <string name="id">ID</string>
+    <string name="equipment_name">Equipment Name</string>
+    <string name="equipment_type">Equipment Type</string>
+    <string name="equipment_use">Equipment Use</string>
+    <string name="equipment_name_hint">Input Equipment Name</string>
+    <string name="equipment_type_hint">Input Equipment Type</string>
+    <string name="equipment_use_hint">Input Equipment Use</string>
+    <string name="name">Name</string>
+    <string name="birth">Birth</string>
+    <string name="birth_hint">Input Birth</string>
+    <string name="finish">finish</string>
+    <string name="blood">Blood</string>
+    <string name="tel">Tel</string>
+    <string name="tel_hint">Input</string>
+    <string name="address">Address</string>
+    <string name="find">Find</string>
+    <string name="address_hint1">Postal Code Search</string>
+    <string name="address_hint2">Address Search</string>
+    <string name="address_hint3">Enter detailed address</string>
+    <string name="agency">AGENCY</string>
+    <string name="occupation">OCCUPATION</string>
+    <string name="uniqueness">Remark</string>
+    <string name="uniqueness_hint">Enter remark here</string>
+    <string name="employee_info">Employee Info</string>
+    <string name="employee_equipment_info">Employee(Equipment) Info</string>
+    <string name="auth">APPROVE</string>
+    <string name="sos">SOS</string>
+    <string name="sos_send">SOS request</string>
+    <string name="employee_auth">Employee AUTH</string>
+    <string name="remedy">Site Remedy</string>
+    <string name="notice">Notice</string>
+    <string name="attendance">Clock in/out</string>
+    <string name="issue">Issue</string>
+    <string name="map">Map</string>
+    <string name="logout">Log-out</string>
+    <string name="equipment">Construction equipment</string>
+    <string name="equipment_text">I have a construction equipment.</string>
+    <string name="vaccinated">Vaccination</string>
+    <string name="vaccinated_text">I am vaccinated.</string>
+    <string name="setting">Setting</string>
+    <string name="find_id_dialog">\'s ID</string>
+    <string name="language">Language</string>
+    <string name="logout_title">Are you sure you want to log out?</string>
+    <string name="logout_content">Log out of your account.</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="title_hint">Enter title</string>
+    <string name="content_hint">Enter content (maximum of 500 characters)</string>
+    <string name="dialog_remedy_title">On-site remedy registration</string>
+    <string name="dialog_remedy_content">Would you like to register this content in the on-site remedy?</string>
+    <string name="dialog_auth_warning_title">Too many attempt</string>
+    <string name="dialog_auth_warning_content">This is disabled for 30 sec because of wrong information entered.\n\nDeactivated time\n</string>
+    <string name="find_pw_dialog">Find password</string>
+    <string name="find_pw_dialog_content">Password change link is sent by email.\nPlease check email.</string>
+    <string name="search">Search</string>
+    <string name="notice_new">new</string>
+    <string name="read">read</string>
+    <string name="list_notice">Notice List</string>
+    <string name="go_work_time">GoWork</string>
+    <string name="leave_work_time">LeaveWork</string>
+    <string name="writer_hint">Input writer</string>
+    <string name="titleSearch_hint">Input title</string>
+    <string name="writer">Writer</string>
+    <string name="write_date">Date</string>
+    <string name="start_date">Start day</string>
+    <string name="end_date">End day</string>
+    <string name="select">Select</string>
+    <string name="isueSelect_img">Picture</string>
+    <string name="isueSelect_gallery">Gallery</string>
+    <string name="isueSelect_AR">AR</string>
+    <string name="enter_issue_title">Please enter issue title</string>
+    <string name="enter_issue">Please enter issue content.</string>
+    <string name="enter_hashtag">Please enter hash tag.</string>
+    <string name="add_picture">Please add issue pictures.(Max %d pictures)</string>
+    <string name="issue_max_pic">Up to %d pictures are available.</string>
+    <string name="no_picture_selected">No pictures selected.</string>
+    <string name="max_gallery">Max %d pictures at once</string>
+    <string name="err_pic_load">Picture loading error!</string>
+    <string name="delete_pic">Delete picture</string>
+    <string name="delete_pic_ask">Are you sure to delete a selected picture.</string>
+
+    <string name="image_add">Image Add</string>
+
+    <string name="delete">Delete</string>
+    <string name="notice_delete">Are you sure you want to delete this issue?</string>
+
+    <string name="image_delete_comment">Are you sure you want to delete this image?</string>
+
+    <string name="state_setting">Change issue state</string>
+    <string name="state_pre">Before process</string>
+    <string name="state_ing">In progress</string>
+    <string name="state_post">Done</string>
+    <string name="state_hold">Pending</string>
+
+    <string name="accept">적용</string>
+
+    <string name="register_complaint">Do you really want to post it?</string>
+    <string name="registered">Register success!</string>
+
+    <string name="update">Update</string>
+    <string name="note">Note</string>
+    <string name="insertDataReset_Note">When you leave the screen, all the contents you are writing will disappear. Will you continue?</string>
+    <string name="EditDataReset_Note">If you leave the screen, all the modifications will be initialized. Will you continue?</string>
+
+
+    <string name="dialog_token_title">Restart</string>
+    <string name="dialog_token_content">Is it okay to restart application to refresh access-token?</string>
+
+    <string name="rent_phone_serialNumber_notMatch">It is not registered rent phone.</string>
+
+    <!--  서버 에러 공용  -->
+    <string name="dialog_error_title">error</string>
+
+    <!--  서버 응답 없음  -->
+    <string name="dialog_response_error_content">There is no response from server. Please contact a manager.</string>
+
+    <!--  서버 연결 오류  -->
+    <string name="dialog_connect_error_content">Connection failed. Please contact a manager.</string>
+    <!-- catch error -->
+    <string name="dialog_catch_error_content">Error occurs. Please contact a manager.</string>
+
+    <string name="dialog_auth_error_title">Authorization error</string>
+    <string name="dialog_auth_error_content">Unauthorized user.\nPlease contact a manager.</string>
+
+    <string name="dialog_join_fail">Failed to sign up.</string>
+    <string name="dialog_join_fail_content">It does not match the name of the borrower.</string>
+    <string name="site_name">Site Name</string>
+    <string name="site_select">Select site</string>
+    <string name="reset_rent">Reset rent phone</string>
+    <string name="pw_error">Wrong password!</string>
+
+    <string name="exit_app">Press one more to exit.</string>
+    <string name="enter_equipment_name">Please enter equipment name.</string>
+    <string name="enter_equipment_use">Please enter equipment usage.</string>
+    <string name="enter_name">Please enter name.</string>
+    <string name="enter_birthday">Please enter birthday.</string>
+    <string name="enter_tel">Please enter phone number.</string>
+    <string name="none_notice">There is no notice.</string>
+    <string name="none_issue">There is no issue.</string>
+    <string name="none_related_issue">There is no related notice.</string>
+
+    <string name="warning">Warning</string>
+    <string name="restricted_in">Restricted area In</string>
+    <string name="restricted_out">Restricted area Out</string>
+    <string name="site_in_out">Site In/Out</string>
+    <string name="site_in">Site In</string>
+    <string name="site_out">Site Out</string>
+    <string name="area_in_out">Area In/Out</string>
+    <string name="area_in">Area In</string>
+    <string name="area_out">Area Out</string>
+    <string name="clock_in_out">Clock in/out</string>
+    <string name="detect_login">Login detection</string>
+    <string name="logout_this">Login from another device is detected. Logged out in this device.</string>
+
+    <string name="work">Go to work(ellosseum)</string>
+    <string name="work_msg">Go to work!</string>
+    <string name="work_off">Finish work(ellosseum)</string>
+    <string name="work_off_msg">Finish work!</string>
+    <string name="work_out">Leave work</string>
+    <string name="work_out_msg">GPS off. See you!</string>
+    <string name="issue_save">Save issue</string>
+    <string name="issue_edit">Edit issue</string>
+    <string name="issue_remove">Delete issue</string>
+    <string name="deleted">Deleted.</string>
+    <string name="save">SAVE</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="none_attd">근태기록이 없습니다.</string>
+</resources>

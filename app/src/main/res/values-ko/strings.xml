@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ellosseum</string>
+
+    <string name="auth_title">승인코드 입력</string>
+    <string name="auth_title2">승인 코드를 입력해 주세요.</string>
+    <string name="auth_hint">코드 입력</string>
+    <string name="code_error">코드번호가 잘못 입력되었습니다.</string>
+    <string name="alreadyAccount">이미 회원 정보가 있으신가요?</string>
+    <string name="OK">확인</string>
+    <string name="login_title">Welcome!</string>
+    <string name="login_title2">Enter your login to continue…</string>
+    <string name="id_hint">아이디 입력</string>
+    <string name="pw_hint">비밀번호 입력</string>
+    <string name="login_error">아이디 또는 비밀번호를 잘못 입력되었습니다.</string>
+    <string name="find_id">아이디 찾기</string>
+    <string name="find_pw">패스워드 찾기</string>
+    <string name="join">회원가입</string>
+    <string name="login">로그인</string>
+    <string name="find_id_title2">이름과 이메일을 입력해 주세요.</string>
+    <string name="state">상태</string>
+    <string name="name_hint">이름 입력</string>
+    <string name="email_hint">이메일 입력</string>
+    <string name="login_screen">로그인 화면</string>
+    <string name="find_id_error">이름 또는 이메일이 잘못 입력되었습니다.</string>
+    <string name="find_pw_title2">아이디와 이름, 이메일을 입력해 주세요.</string>
+    <string name="find_pw_error">아이디 또는 이름, 이메일이 잘못 입력되었습니다.</string>
+    <string name="terms">약관 동의</string>
+    <string name="terms_all_agree">엘로세움 이용약관, 개인 정보 수집 및 이용, 위치정보 이용 약관에 모두 동의합니다.</string>
+    <string name="terms_agree1">엘로세움 이용약관 동의</string>
+    <string name="terms_agree2">개인정보 수집 및 이용에 대한 안내 (필수)</string>
+    <string name="terms_agree3">위치정보 이용약관 동의 (필수)</string>
+    <string name="cancel">취소</string>
+    <string name="id">아이디</string>
+    <string name="equipment_name">장비명</string>
+    <string name="equipment_type">장비종류</string>
+    <string name="equipment_use">장비용도</string>
+    <string name="equipment_name_hint">장비명 입력</string>
+    <string name="equipment_type_hint">장비종류 입력</string>
+    <string name="equipment_use_hint">장비용도 입력</string>
+    <string name="name">이름</string>
+    <string name="birth">생년월일</string>
+    <string name="birth_hint">생년월일 입력</string>
+    <string name="finish">완료</string>
+    <string name="blood">혈액형</string>
+    <string name="tel">연락처</string>
+    <string name="tel_hint">입력</string>
+    <string name="address">주소</string>
+    <string name="find">찾기</string>
+    <string name="address_hint1">우편번호 검색</string>
+    <string name="address_hint2">주소검색</string>
+    <string name="address_hint3">상세주소 입력</string>
+    <string name="agency">소속사</string>
+    <string name="occupation">직종</string>
+    <string name="uniqueness">특이사항</string>
+    <string name="uniqueness_hint">특이사항 입력</string>
+    <string name="employee_info">사원 정보</string>
+    <string name="employee_equipment_info">사원(장비) 정보</string>
+    <string name="auth">승인</string>
+    <string name="sos">SOS</string>
+    <string name="sos_send">SOS 요청</string>
+    <string name="employee_auth">근로자 승인</string>
+    <string name="remedy">현장 신문고</string>
+    <string name="notice">공지사항</string>
+    <string name="attendance">근태현황</string>
+    <string name="issue">이슈사진</string>
+    <string name="map">현장지도</string>
+    <string name="logout">로그아웃</string>
+    <string name="equipment">현장 장비 보유 여부</string>
+    <string name="equipment_text">현장 장비를 보유하고 있습니다.</string>
+    <string name="vaccinated">백신 접종 여부</string>
+    <string name="vaccinated_text">백신 접종을 완료했습니다.</string>
+    <string name="setting">설정</string>
+    <string name="find_id_dialog">님의 아이디</string>
+    <string name="language">언어</string>
+    <string name="logout_title">정말 로그아웃 하시겠습니까?</string>
+    <string name="logout_content">계정에서 로그아웃합니다.</string>
+    <string name="title">제목</string>
+    <string name="content">내용</string>
+    <string name="title_hint">제목 입력</string>
+    <string name="content_hint">내용 입력 (최대 500자)</string>
+    <string name="dialog_remedy_title">현장 신문고 등록</string>
+    <string name="dialog_remedy_content">이 내용을 현장 신문고에 등록하시겠습니까?</string>
+    <string name="dialog_auth_warning_title">오류횟수 초과</string>
+    <string name="dialog_auth_warning_content">최대 유효 횟수 초과로 인해 30초 동안 비활성화 상태입니다.\n\n비활성화 시간\n</string>
+    <string name="find_pw_dialog">비밀번호 찾기</string>
+    <string name="find_pw_dialog_content">이메일로 비밀번호 변경 링크를 전송하였습니다.\n이메일을 확인해주세요.</string>
+    <string name="notice_new">new</string>
+    <string name="read">필독</string>
+    <string name="search">검색</string>
+    <string name="list_notice">목록으로</string>
+    <string name="go_work_time">출근시간</string>
+    <string name="leave_work_time">퇴근시간</string>
+    <string name="writer_hint">작성자명 검색</string>
+    <string name="titleSearch_hint">제목 검색</string>
+    <string name="writer">작성자</string>
+    <string name="write_date">작성일시</string>
+    <string name="start_date">시작일</string>
+    <string name="end_date">종료일</string>
+    <string name="select">선택</string>
+    <string name="isueSelect_img">사진 촬영</string>
+    <string name="isueSelect_gallery">갤러리</string>
+    <string name="isueSelect_AR">AR</string>
+    <string name="enter_issue_title">제목을 입력해주세요.</string>
+    <string name="enter_issue">이슈사항을 입력해주세요.</string>
+    <string name="enter_hashtag">해시태그를 입력해주세요.</string>
+    <string name="add_picture">이슈사진을 촬영해주세요(최대 %d장까지 등록가능)</string>
+    <string name="issue_max_pic">사진은 최대 %d장까지 가능합니다.</string>
+    <string name="no_picture_selected">사진이 선택되지 않았습니다.</string>
+    <string name="max_gallery">한번에 최대 %d장까지 가능합니다.</string>
+    <string name="err_pic_load">사진을 불러오는 중 오류가 발생했습니다.</string>
+    <string name="delete_pic">사진 삭제</string>
+    <string name="delete_pic_ask">선택한 사진을 삭제하시겠습니까?</string>
+    <string name="update">수정</string>
+    <string name="note">주의</string>
+    <string name="insertDataReset_Note">화면을 벗어나면 작성중인 내용이 모두 사라집니다. 계속 진행하시겠습니까?</string>
+    <string name="EditDataReset_Note">화면을 벗어나면 수정한 내용이 모두 초기화 됩니다. 계속 진행하시겠습니까?</string>
+
+    <string name="image_add">이미지 추가</string>
+
+    <string name="image_delete_comment">정말 해당 이미지를 삭제하시겠습니까?</string>
+
+    <string name="dialog_token_title">세션 만료</string>
+    <string name="dialog_token_content">세션이 만료되어 앱을 재실행합니다.</string>
+
+    <string name="rent_phone_serialNumber_notMatch">등록된 휴대폰이 아닙니다.</string>
+
+    <string name="delete">삭제</string>
+    <string name="notice_delete">정말 이슈를 삭제 하시겠습니까?</string>
+
+    <string name="state_setting">이슈상태 변경</string>
+    <string name="state_pre">진행전</string>
+    <string name="state_ing">진행중</string>
+    <string name="state_post">진행완료</string>
+    <string name="state_hold">보류</string>
+
+    <string name="accept">적용</string>
+
+    <string name="register_complaint">이 내용을 현장 신문고에 등록하시겠습니까?</string>
+    <string name="registered">등록되었습니다.</string>
+
+    <!--  서버 에러 공용  -->
+    <string name="dialog_error_title">오류</string>
+    <!--  서버 응답 없음  -->
+    <string name="dialog_response_error_content">서버에서 응답이 없습니다. 관리자에게 문의하세요.</string>
+    <!--  서버 연결 오류  -->
+    <string name="dialog_connect_error_content">서버와 연결할 수 없습니다.</string>
+    <!-- catch error -->
+    <string name="dialog_catch_error_content">오류가 발생하였습니다. 관리자에게 문의하세요.</string>
+
+    <string name="dialog_auth_error_title">권한 오류</string>
+    <string name="dialog_auth_error_content">승인되지 않은 회원입니다. \n관리자에게 문의하세요</string>
+
+    <string name="dialog_join_fail">회원가입 실패</string>
+    <string name="dialog_join_fail_content">신청한 대여자의 이름과 일치하지 않습니다.</string>
+    <string name="site_name">현장</string>
+    <string name="site_select">현장 선택</string>
+    <string name="reset_rent">대여폰 초기화</string>
+    <string name="pw_error">비밀번호가 잘못 입력되었습니다.</string>
+
+    <string name="exit_app">한번 더 누르면 종료됩니다.</string>
+    <string name="enter_equipment_name">장비명을 입력하세요.</string>
+    <string name="enter_equipment_use">장비용도을 입력하세요.</string>
+    <string name="enter_name">이름을 입력해주세요.</string>
+    <string name="enter_birthday">생년월일을 입력해주세요.</string>
+    <string name="enter_tel">연락처를 입력해주세요.</string>
+    <string name="none_notice">공지사항이 없습니다.</string>
+    <string name="none_issue">이슈글이 없습니다.</string>
+    <string name="none_related_issue">관련 게시물이 없습니다.</string>
+
+    <string name="warning">경고</string>
+    <string name="restricted_in">제한구역 진입</string>
+    <string name="restricted_out">제한구역 이탈</string>
+    <string name="site_in_out">현장 출입</string>
+    <string name="site_in">근무현장 진입</string>
+    <string name="site_out">근무현장 이탈</string>
+    <string name="area_in_out">구역 출입</string>
+    <string name="area_in">근무구역 진입</string>
+    <string name="area_out">근무구역 이탁</string>
+    <string name="clock_in_out">근태 체크</string>
+    <string name="detect_login">다른 기기에서 로그인</string>
+    <string name="logout_this">다른 기기에서의 로그인이 감지되어 로그아웃합니다.</string>
+
+    <string name="work">ellosseum 출근</string>
+    <string name="work_msg">출근하였습니다.</string>
+    <string name="work_off">ellosseum 퇴근</string>
+    <string name="work_off_msg">퇴근하였습니다.</string>
+    <string name="work_out">현장 퇴근</string>
+    <string name="work_out_msg">GPS 송신을 종료합니다.</string>
+    <string name="issue_save">이슈 저장</string>
+    <string name="issue_edit">이슈 수정</string>
+    <string name="issue_remove">이슈 삭제</string>
+    <string name="deleted">삭제되었습니다.</string>
+    <string name="save">저장</string>
+    <string name="yes">예</string>
+    <string name="no">아니오</string>
+    <string name="none_attd">근태기록이 없습니다.</string>
+</resources>

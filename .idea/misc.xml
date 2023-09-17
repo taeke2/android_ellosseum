@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/drawable/bg_white_radius_8dpbg_white_top_radius_16dp.xml" value="0.25625" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/drawable/bg_white_top_radius_16dp.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/drawable/btn_access_disable.xml" value="0.25625" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/drawable/btn_access_disable_sizefree.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/drawable/btn_access_enable.xml" value="0.25625" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/drawable/btn_access_enable_sizefree.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/drawable/btn_find_shape.xml" value="0.35625" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/drawable/btn_search_shape.xml" value="0.35625" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/drawable/btn_shadow.xml" value="0.3074074074074074" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/drawable/dialog_background_shape.xml" value="0.19479166666666667" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/drawable/edit_shape.xml" value="0.15520833333333334" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/drawable/fab_btn_shape.xml" value="0.3074074074074074" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/drawable/layout_setting_shape.xml" value="0.35625" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/drawable/memo_border.xml" value="0.2569230769230769" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/drawable/scrollview_shape.xml" value="0.35625" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/drawable/selector_checkbox_custom_check.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/drawable/selector_textview_site_pressed.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/drawable/spinner_shape.xml" value="0.15520833333333334" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/drawable/textview_shape.xml" value="0.15520833333333334" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/drawable/textview_site.xml" value="0.14427083333333332" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/drawable/textview_site_pressed.xml" value="0.14427083333333332" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/drawable/txt_background_round.xml" value="0.2234375" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/drawable/txt_bottom_border.xml" value="0.2234375" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/activity_authorization.xml" value="0.22" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/activity_employee_info.xml" value="0.33" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/activity_isuemanagement.xml" value="0.22" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/activity_isuemanagement_add.xml" value="0.33" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/activity_isuemanagement_detail.xml" value="0.37300613496932516" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/activity_isuemanagement_detail_test.xml" value="0.5" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/activity_join.xml" value="0.234" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/activity_login.xml" value="0.2223731884057971" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/activity_notice.xml" value="0.225" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/activity_notice_detail.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/activity_qrcode.xml" value="0.25" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/activity_request_image_item.xml" value="0.1" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/activity_setting.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/activity_site_select.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/activity_terms.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.25" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/dialog_check.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/dialog_delete.xml" value="0.5" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/dialog_find.xml" value="0.2558876811594203" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/dialog_logout.xml" value="0.2558876811594203" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/dialog_restart.xml" value="0.2558876811594203" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/dialog_select.xml" value="0.33" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/fragment_join.xml" value="0.1390625" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/item_attendance.xml" value="0.184375" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/item_issue.xml" value="0.16983695652173914" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/item_issue_spinner.xml" value="0.1390625" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/item_notice.xml" value="0.225" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/item_popup_spinner.xml" value="0.21770833333333334" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/item_site.xml" value="0.25" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/item_spinner.xml" value="0.22" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/layout/widget.xml" value="0.2984375" />
+        <entry key="..\:/Users/GBSOFT/AndroidStudioProjects/android_ellosseum/app/src/main/res/menu/popup.xml" value="0.184375" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2776268115942029" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

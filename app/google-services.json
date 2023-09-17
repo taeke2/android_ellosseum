@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "966625881774",
+    "project_id": "ellosseum-8d38f",
+    "storage_bucket": "ellosseum-8d38f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966625881774:android:13895d389ff6c5c1f6873f",
+        "android_client_info": {
+          "package_name": "com.gbsoft.ellosseum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966625881774-o7qvgrccgclhp50ql8afodblbmouiro2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gbsoft.ellosseum",
+            "certificate_hash": "410cd678b7e0cec4dd834a9838e871a5e6432d2b"
+          }
+        },
+        {
+          "client_id": "966625881774-28es9400qm095mbrnlt4pc36mdnpdcjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtAhgxUiPSHxv_Ruhk13JdFga8sIA_sFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966625881774-28es9400qm095mbrnlt4pc36mdnpdcjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
